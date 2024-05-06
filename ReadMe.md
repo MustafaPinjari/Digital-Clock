@@ -23,7 +23,7 @@ python digital_clock.py
 
 When you run the program, a window will open displaying the current time in hours, minutes, and seconds. The time will update every 200 milliseconds to reflect the accurate time.
 
-![Digital Clock Screenshot](clock_screenshot.png)
+![Digital Clock Screenshot](DC.png)
 
 ## Features
 
